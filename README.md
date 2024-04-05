@@ -1,7 +1,5 @@
 # Detection of Rice and Potato Plant Diseases Using Image Processing
 
-# DEEP LEARNING BASED ENHANCED OPTIMIZATION FOR AUTOMATED RICE PLANT DISEASE DETECTION AND CLASSIFICATION
-
 ## Abstract
 
 Ensuring global food security requires innovative solutions for early detection and accurate classification of diseases in staple crops such as rice. This project presents an advanced approach for automated rice plant disease detection and classification by combining deep learning with metaheuristic optimization techniques. A deep dense neural network (DNN) is utilized for its ability to discern intricate patterns in images, while Extreme Learning Machine (ELM) is employed for classification purposes. To improve the optimization process, an innovative variant of the Shuffled Shepherd Optimization (SSO) algorithm, termed Enhanced Artificial Shuffled Shepherd Optimization (EASSO), is introduced. EASSO integrates adaptive strategies and enhanced exploration-exploitation mechanisms, facilitating more efficient convergence during DNN training.
